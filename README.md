@@ -11,3 +11,4 @@ Beach Party Instructions
 >>> multi_gen(photos, 4) 
 #photos = tuple w/ filenames, 4 = number of repetitions of each picture in photos
 ```
+You could change the background color in the ```test.py``` file, and replace the images in the ```\photos``` directory.
