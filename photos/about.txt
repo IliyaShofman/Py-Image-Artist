@@ -1,0 +1,1 @@
+Cropped png images to insert into collage, with transparent background.
