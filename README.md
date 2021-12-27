@@ -6,7 +6,7 @@ A cute 12th-grade project in python
 Beach Party Instructions
 ```
 >>> from test import *
->>> photos = ('C:\\...\\Photos\\pineapple.png', 'C:\\...\\Photos\\sunglass.png', 'C:\\...\\Photos\\martini.png')
+>>> photos = ('C:\\...\\photos\\pineapple.png', 'C:\\...\\photos\\sunglass.png', 'C:\\...\\photos\\martini.png')
 >>> multi_gen(photos, 4) 
 #photos = tuple w/ filenames, 4 = number of repetitions of each picture in photos
 ```
